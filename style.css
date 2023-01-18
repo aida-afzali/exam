@@ -1,0 +1,130 @@
+*{margin: 0px;}
+body{
+    background-image: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
+    height: 3000px;
+
+
+}
+.whole{margin: 0px auto;
+    margin-top: 7%;
+    background-color: rgba(35, 28, 45, 0.899);
+    height: 300px;
+    width: 270px;
+    border: 2px ;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 20%;
+    
+}
+.title{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 6%;
+    font-weight: bold;
+    font :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+    
+}
+.note{
+    margin-left: 10%;
+    color: aliceblue;
+    margin-top: 6%;
+    font-weight: bold;
+}
+.small{
+    margin: 0px auto;
+    margin-top: 7%;
+    background-color: rgba(170, 157, 255, 0.222);
+    height: 5%;
+    width: 85%;
+    border: 2px ;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 5%;
+}
+.small:hover {
+    background-color: rgba(170, 157, 255, 0.429);
+  }
+  .two
+  .one{
+    background-color:  rgba(170, 157, 255, 1);
+    margin: 0px auto;
+    margin-top: 7%;
+    height: 5%;
+    width: 5%;
+    border: 2px ;
+    border-radius: 100%;
+    padding: 5px;
+    margin-left: 5%;
+    text-align: center;
+  }
+  .two
+  .one:hover{
+    background-color: rgb(196, 187, 252);
+    cursor: pointer;
+
+  }
+  pre{color: aliceblue;}
+
+  .time1{
+    margin-top: 5%;
+    color: white;
+    font-size:large;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.time2{
+  margin-top: 5%;
+  color: white;
+  font-size:large;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+.container-title{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-between;
+}
+  .container{
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+  }
+  .inc-buttons{
+    display:  flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+  }
+
+  .buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .one:hover{
+    background-color: rgb(196, 187, 252);
+    cursor: pointer;
+
+  }
+
+  .one{
+    background-color:  rgba(170, 157, 255, 1);
+    margin: 0px auto;
+    margin-top: 7%;
+    height: 5%;
+    width: 5%;
+    border: 2px ;
+    border-radius: 100%;
+    padding: 5px;
+    margin-left: 5%;
+    text-align: center;
+  }
+
